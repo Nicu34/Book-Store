@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="book-store-remoting_main" target="1.8" />
+      <module name="book-store-remoting_test" target="1.8" />
+      <module name="c04-remoting-client_main" target="1.8" />
+      <module name="c04-remoting-client_test" target="1.8" />
+      <module name="c04-remoting-common_main" target="1.8" />
+      <module name="c04-remoting-common_test" target="1.8" />
+      <module name="c04-remoting-parent_main" target="1.8" />
+      <module name="c04-remoting-parent_test" target="1.8" />
+      <module name="c04-remoting-server_main" target="1.8" />
+      <module name="c04-remoting-server_test" target="1.8" />
+      <module name="client_main" target="1.8" />
+      <module name="client_test" target="1.8" />
+      <module name="common_main" target="1.8" />
+      <module name="common_test" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="server_main" target="1.8" />
+      <module name="server_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

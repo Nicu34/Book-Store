@@ -1,0 +1,5 @@
+rootProject.name = 'book-store-remoting'
+include 'common'
+include 'server'
+include 'client'
+

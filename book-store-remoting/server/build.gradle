@@ -1,0 +1,7 @@
+
+dependencies {
+//    testCompile group: 'junit', name: 'junit', version: '4.11'
+    compile project(':common')
+    compile group: 'commons-dbutils', name: 'commons-dbutils', version: '1.6'
+    compile 'mysql:mysql-connector-java:5.1.39'
+}
